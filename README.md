@@ -19,6 +19,12 @@ python -m http.server 5500
 
 ---
 
+## النشر على GitHub Pages
+
+المستودع يحتوي على GitHub Actions workflow ينشر ملفات الموقع عند كل تحديث لفرع `main`.
+اضبط مصدر GitHub Pages على **GitHub Actions** من إعدادات المستودع. رابط الموقع يكون عادة:
+`https://<owner>.github.io/<repository>/`.
+
 ## المزايا
 
 ### الحجز
