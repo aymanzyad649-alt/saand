@@ -268,8 +268,12 @@ ul { list-style: none; }
     border-radius: 13px;
     background: linear-gradient(140deg, var(--brand) 0%, var(--brand-light) 100%);
     color: #fff;
-    font-size: 1.3rem;
     box-shadow: 0 8px 20px rgba(14, 124, 107, 0.3);
+}
+
+.logo-mark svg {
+    width: 27px;
+    height: 27px;
 }
 
 .logo-text {
